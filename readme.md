@@ -50,5 +50,6 @@ GET /videos
 Example:
 ```bash
 GET /videos?page=2&pageSize=4
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/e67bd7b5-0131-4635-a695-afcc9ca2fe03)
+
 ```
