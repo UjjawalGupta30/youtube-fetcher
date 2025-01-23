@@ -50,5 +50,6 @@ GET /videos
 Example:
 ```bash
 GET /videos?page=2&pageSize=4
-![YouTube Fetcher API Testing](images/youtube-fetcher.png)
 ```
+Result:
+![YouTube Fetcher API Testing](images/youtube-fetcher.png)
