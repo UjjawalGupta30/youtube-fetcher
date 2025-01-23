@@ -52,4 +52,5 @@ Example:
 GET /videos?page=2&pageSize=4
 ```
 Result:
-![YouTube Fetcher API Testing](images/youtube-fetcher.png)
+![YouTube Fetcher API Testing](assets/result/youtube-fetcher.png)
+
