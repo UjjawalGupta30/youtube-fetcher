@@ -1,0 +1,26 @@
+# Binaries
+youtube-fetcher.exe
+youtube-fetcher
+
+# Go build artifacts
+*.exe
+*.out
+*.test
+
+# Dependency directories
+vendor/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
